@@ -2,8 +2,8 @@
 
 ## Python tools
 
-- [] text and maybe images <http://www.unixuser.org/~euske/python/pdfminer/> (Promising)
-- [] text and maybe images <https://pythonhosted.org/PyPDF2/index.html>
+[] text and maybe images <http://www.unixuser.org/~euske/python/pdfminer/> (Promising)
+[] text and maybe images <https://pythonhosted.org/PyPDF2/index.html>
 
 ## Java tools
 
