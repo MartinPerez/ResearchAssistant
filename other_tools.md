@@ -26,3 +26,7 @@
 
 - [ ] <https://github.com/pdfliberation/whatwordwhere>
 - [ ] efforts to free pdf. Great amount of links and events: <https://pdfliberation.wordpress.com/> . <https://github.com/pdfliberation>
+
+## For Zotero integration
+
+- [x] [sqlite3](https://docs.python.org/2/library/sqlite3.html#module-sqlite3) necessary to read zotero sqlite database.
