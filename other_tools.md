@@ -4,6 +4,8 @@
 
 - [ ] text and maybe images <http://www.unixuser.org/~euske/python/pdfminer/> (Promising)
 - [ ] text and maybe images <https://pythonhosted.org/PyPDF2/index.html>
+- [x] [pdfviewer](http://wxpython.org/Phoenix/docs/html/lib.pdfviewer.html) 
+- [x] natural language processing [nltk](http://www.nltk.org/)
 
 ## Java tools
 
@@ -30,3 +32,8 @@
 ## For Zotero integration
 
 - [x] [sqlite3](https://docs.python.org/2/library/sqlite3.html#module-sqlite3) necessary to read zotero sqlite database. The Zotero data structure is explained in <https://www.zotero.org/support/zotero_data>
+
+# Useful
+
+- [x] tools extra list in <http://pdfjailbreak.com/tools>
+- [x] pdf documentation in <http://www.adobe.com/devnet/pdf/pdf_reference.html>
