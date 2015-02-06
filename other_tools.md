@@ -2,8 +2,8 @@
 
 ## Python tools
 
-- [ ] text and maybe images <http://www.unixuser.org/~euske/python/pdfminer/> (Promising)
-- [ ] text and maybe images <https://pythonhosted.org/PyPDF2/index.html>
+- [x] text and maybe images <http://www.unixuser.org/~euske/python/pdfminer/> (Promising)
+- [x] text and maybe images <https://pythonhosted.org/PyPDF2/index.html>
 - [x] [pdfviewer](http://wxpython.org/Phoenix/docs/html/lib.pdfviewer.html) 
 - [x] natural language processing [nltk](http://www.nltk.org/)
 
