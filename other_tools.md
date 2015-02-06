@@ -29,4 +29,4 @@
 
 ## For Zotero integration
 
-- [x] [sqlite3](https://docs.python.org/2/library/sqlite3.html#module-sqlite3) necessary to read zotero sqlite database.
+- [x] [sqlite3](https://docs.python.org/2/library/sqlite3.html#module-sqlite3) necessary to read zotero sqlite database. The Zotero data structure is explained in <https://www.zotero.org/support/zotero_data>
